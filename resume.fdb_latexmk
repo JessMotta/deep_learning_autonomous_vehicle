@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1594833260 "/home/jes/veiculos_autonomos_presentation/resume.tex" "/home/jes/veiculos_autonomos_presentation/resume.pdf" "resume" 1594833263
+["pdflatex"] 1594845783 "/home/jes/deep_learning_autonomous vehicles_presentation/resume.tex" "/home/jes/deep_learning_autonomous vehicles_presentation/resume.pdf" "resume" 1594845783
   "/etc/texmf/web2c/texmf.cnf" 1594063141 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/jes/veiculos_autonomos_presentation/resume.aux" 1594833260 52 90828fdd2848999dee98c4b834b2948b ""
-  "/home/jes/veiculos_autonomos_presentation/resume.tex" 1594833260 1763 781a9c1574a2580427194ce8b08bfda8 ""
+  "/home/jes/deep_learning_autonomous vehicles_presentation/resume.aux" 1594845783 52 90828fdd2848999dee98c4b834b2948b ""
+  "/home/jes/deep_learning_autonomous vehicles_presentation/resume.tex" 1594845782 2372 ce24bbb0181ef1c856eac2fa9201b073 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc" 1490133665 2933 9ad527ce78d7c5fa0a642dead095f172 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc" 1490133665 3357 5261ce65ba03aef9faf6135657b9abb6 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc" 1490133665 2933 8d808fcabf70c6c809bb14c283ece4da ""
@@ -79,11 +79,13 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1594063380 2700761 ac0584cc9514ab21918550a6948c4ee2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1594063400 4127115 f441447ac3228ee8337a3063b87f0376 ""
   "Logo_senai.png" 1593547461 83624 f93191fb6421e0492ff1d68da09099e6 ""
-  "resume.aux" 1594833260 52 90828fdd2848999dee98c4b834b2948b ""
-  "resume.tex" 1594833260 1763 781a9c1574a2580427194ce8b08bfda8 ""
+  "resume.aux" 1594845783 52 90828fdd2848999dee98c4b834b2948b ""
+  "resume.tex" 1594845782 2372 ce24bbb0181ef1c856eac2fa9201b073 ""
   (generated)
-  "/home/jes/veiculos_autonomos_presentation/resume.pdf"
-  "resume.aux"
-  "resume.log"
-  "resume.pdf"
   "/home/jes/veiculos_autonomos_presentation/resume.log"
+  "/home/jes/deep_learning_autonomous vehicles_presentation/resume.pdf"
+  "resume.pdf"
+  "/home/jes/veiculos_autonomos_presentation/resume.pdf"
+  "/home/jes/deep_learning_autonomous vehicles_presentation/resume.log"
+  "resume.log"
+  "resume.aux"

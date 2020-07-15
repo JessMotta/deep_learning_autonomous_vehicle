@@ -1,10 +1,10 @@
-PWD /home/jes/veiculos_autonomos_presentation
+PWD /home/jes/deep_learning_autonomous vehicles_presentation
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/jes/veiculos_autonomos_presentation/resume.tex
-OUTPUT /home/jes/veiculos_autonomos_presentation/resume.log
+INPUT /home/jes/deep_learning_autonomous vehicles_presentation/resume.tex
+OUTPUT /home/jes/deep_learning_autonomous vehicles_presentation/resume.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
@@ -83,9 +83,9 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/ms/ragged2e.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/ms/ragged2e.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
-INPUT /home/jes/veiculos_autonomos_presentation/resume.aux
-INPUT /home/jes/veiculos_autonomos_presentation/resume.aux
-OUTPUT /home/jes/veiculos_autonomos_presentation/resume.aux
+INPUT /home/jes/deep_learning_autonomous vehicles_presentation/resume.aux
+INPUT /home/jes/deep_learning_autonomous vehicles_presentation/resume.aux
+OUTPUT /home/jes/deep_learning_autonomous vehicles_presentation/resume.aux
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/libertine/T1LinuxLibertineT-TLF.fd
@@ -113,10 +113,10 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT /home/jes/veiculos_autonomos_presentation/Logo_senai.png
-INPUT /home/jes/veiculos_autonomos_presentation/Logo_senai.png
-OUTPUT /home/jes/veiculos_autonomos_presentation/resume.pdf
-INPUT /home/jes/veiculos_autonomos_presentation/Logo_senai.png
+INPUT /home/jes/deep_learning_autonomous vehicles_presentation/Logo_senai.png
+INPUT /home/jes/deep_learning_autonomous vehicles_presentation/Logo_senai.png
+OUTPUT /home/jes/deep_learning_autonomous vehicles_presentation/resume.pdf
+INPUT /home/jes/deep_learning_autonomous vehicles_presentation/Logo_senai.png
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
@@ -144,7 +144,7 @@ INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-ts1--base.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-t1.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1--base.tfm
-INPUT /home/jes/veiculos_autonomos_presentation/resume.aux
+INPUT /home/jes/deep_learning_autonomous vehicles_presentation/resume.aux
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc
