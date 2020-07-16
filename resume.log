@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.7.6)  15 JUL 2020 17:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.7.6)  16 JUL 2020 15:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -748,13 +748,13 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
 Here is how much of TeX's memory you used:
  4736 strings out of 492982
  73651 string characters out of 6134897
- 130922 words of memory out of 5000000
+ 129922 words of memory out of 5000000
  8198 multiletter control sequences out of 15000+600000
  38180 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,11n,37p,615b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb>
-Output written on "/home/jes/deep_learning_autonomous vehicles_presentation/resume.pdf" (2 pages, 180275 bytes).
+Output written on "/home/jes/deep_learning_autonomous vehicles_presentation/resume.pdf" (2 pages, 180815 bytes).
 PDF statistics:
  25 PDF objects out of 1000 (max. 8388607)
  17 compressed objects within 1 object stream
