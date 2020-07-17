@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.7.6)  17 JUL 2020 10:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.7.6)  17 JUL 2020 12:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -750,20 +750,20 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/jes/deep_learning_autonomous vehicles_presentation/Logo_senai.png>]
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 45.
+(Font)              scaled to size 17.28pt on input line 48.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 45.
+(Font)              scaled to size 17.28pt on input line 48.
  [2] (/home/jes/deep_learning_autonomous vehicles_presentation/resume.aux) ) 
 Here is how much of TeX's memory you used:
  4746 strings out of 492982
  73905 string characters out of 6134897
- 130926 words of memory out of 5000000
+ 131926 words of memory out of 5000000
  8204 multiletter control sequences out of 15000+600000
  59117 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,11n,37p,644b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb>
-Output written on "/home/jes/deep_learning_autonomous vehicles_presentation/resume.pdf" (2 pages, 232173 bytes).
+Output written on "/home/jes/deep_learning_autonomous vehicles_presentation/resume.pdf" (2 pages, 232715 bytes).
 PDF statistics:
  30 PDF objects out of 1000 (max. 8388607)
  21 compressed objects within 1 object stream
