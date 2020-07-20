@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1595016788 "/home/jes/deep_learning_autonomous vehicles_presentation/script.tex" "/home/jes/deep_learning_autonomous vehicles_presentation/script.pdf" "script" 1595016789
+["pdflatex"] 1595248838 "/home/jes/deep_learning_autonomous vehicles_presentation/script.tex" "/home/jes/deep_learning_autonomous vehicles_presentation/script.pdf" "script" 1595248838
   "/etc/texmf/web2c/texmf.cnf" 1594063141 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/jes/deep_learning_autonomous vehicles_presentation/script.aux" 1595016789 1033 0c47b483652c0b6bdcf685649306d8ba ""
-  "/home/jes/deep_learning_autonomous vehicles_presentation/script.tex" 1595016788 4861 58e18d81af332bbfd90907433b921882 ""
+  "/home/jes/deep_learning_autonomous vehicles_presentation/script.aux" 1595248838 1036 feea299ae437d35a7ebc374ff20fb5c2 ""
+  "/home/jes/deep_learning_autonomous vehicles_presentation/script.tex" 1595248837 5340 99d5252520d59bc71d00a77a5ae34159 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc" 1490133665 2933 9ad527ce78d7c5fa0a642dead095f172 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc" 1490133665 2934 a4a9158faed2e9e89c771b4e3b7fc12f ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc" 1490133665 3357 5261ce65ba03aef9faf6135657b9abb6 ""
@@ -84,11 +84,11 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1594063380 2700761 ac0584cc9514ab21918550a6948c4ee2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1594063400 4127115 f441447ac3228ee8337a3063b87f0376 ""
   "Logo_senai.png" 1593547461 83624 f93191fb6421e0492ff1d68da09099e6 ""
-  "script.aux" 1595016789 1033 0c47b483652c0b6bdcf685649306d8ba ""
-  "script.tex" 1595016788 4861 58e18d81af332bbfd90907433b921882 ""
+  "script.aux" 1595248838 1036 feea299ae437d35a7ebc374ff20fb5c2 ""
+  "script.tex" 1595248837 5340 99d5252520d59bc71d00a77a5ae34159 ""
   (generated)
-  "script.aux"
+  "script.log"
+  "script.pdf"
   "/home/jes/deep_learning_autonomous vehicles_presentation/script.pdf"
   "/home/jes/deep_learning_autonomous vehicles_presentation/script.log"
-  "script.pdf"
-  "script.log"
+  "script.aux"
