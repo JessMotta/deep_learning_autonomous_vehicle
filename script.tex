@@ -6,7 +6,10 @@
 \usepackage{setspace}
 \usepackage{libertine}
 \usepackage{graphicx}	
-\usepackage{ragged2e} 		
+\usepackage{ragged2e} 
+\usepackage{adjustbox}
+\usepackage{float}
+
 
 \begin{document} 
 \begin{figure}
@@ -28,7 +31,8 @@
     \par As pessoas que irão assistir a apresentação são em sua maioria pessoas do meio acadêmico, professores, estudantes, pesquisadores e também pessoas que tenham interesse nesse assunto, que iniciaram o contato com a área de tecnologia ou possuem um profundo conhecimento da área com possibilidade de publicações neste âmbito. Pessoas que queiram aprofundar ou conhecer como são empregadas as técnicas de \emph{deep learning} em veículos autônomos, abrindo espaço para perguntas e contribuições por parte da audiência.
 
     \section{Contexto}
-    \par A motivação de abordar este assunto encontra-se nos benefícios que os veículos autônomos podem proporcionar dando autonomia para pessoas com deficiência física e reduzindo o número de acidentes causados no trânsito pois boa parte deles são causados por sono, desatenção ou estresse. Além de tratar de um tema que está em evidência já que diversas empresas prometeram veículos autônomos em um curto prazo de tempo e as pessoas têm a expectativa de poder se deslocar tendo a comodidade de um veículo particular e ao mesmo tempo realizar outras atividades como assistir a um filme, ler, jogar ou falar ao celular.
+    \par A motivação de abordar este assunto encontra-se nos benefícios que o uso de \emph{Deep learning} traz quando aplicado aos veículos autônomos pois esta técnica se assemelha ao cérebro humano dando a habilidade ao carro de "pensar", ver os obstáculos e tomar decisões. Como disse Fei-Fei Li: “Se queremos máquinas para pensar, precisamos ensiná-las a ver” \cite{1}. Esta aplicação, em veículos autônomos, pode proporcionar autonomia para pessoas com deficiência física e reduzir o número de acidentes no trânsito pois boa parte deles são causados por sono, desatenção, estresse e álcool. 
+    \par Além de tratar de um tema que está em evidência já que diversas empresas prometeram veículos autônomos em um curto prazo de tempo e as pessoas têm a expectativa de poder se deslocar tendo a comodidade de um veículo particular e ao mesmo tempo realizar outras atividades como assistir a um filme, ler, jogar ou falar ao celular. E por também a \emph{deep learning} ser uma das temáticas mais importantes no meio de aprendizado de máquina e redes neurais.
   
 
     \section{Seções}
@@ -50,14 +54,28 @@
     \par Fazer uma linha do tempo mostrando o que foi inserido e modificado nos carros autônomos. Usar imagens para ilustrar o que será dito e facilitar a compreensão.
 
     \subsection{Explicar a diferença entre IA, ML e DP}
-    \par Explicar as diferenças entre \emph{Inteligência artificial, machine learning e deep learning.} Esclarecer que não se trata de sinônimos.
+    \par Explicar as diferenças entre \emph{Inteligência artificial, machine learning e deep learning.} Esclarecer que não se trata de sinônimos. Trazer imagens e animações, como exemplificado na Figura \ref{fig:ml_dp} \cite{2}.
 
+    \begin{figure}[H]
+        \centering
+        \includegraphics[scale=0.5]{ml_dp.png}
+        \caption{Machine learning vs. deep learning.}
+        \label{fig:ml_dp}
+    \end{figure}
 
     \subsection{O que é Deep learning?}
-    \par Explicar o que é \emph{deep learning}, usando imagens e animações, sendo objetiva. 
+    \par Explicar o que é \emph{deep learning}, como surgiu, e informações introdutórias sobre o assunto.
 
     \subsection{Como funciona a Deep learning?}
-    \par Trazer animações para explicar como funciona uma rede neural e como funciona o DP.
+    \par Trazer animações para explicar como funciona a \emph{deep learning} na Figura \ref{fig:dp_works} \cite{2}.
+
+    \begin{figure}[H]
+        \centering
+        \includegraphics[scale=0.5]{dp_works.png}
+        \caption{Diferença entre uma rede neural simples e a deep learning.}
+        \label{fig:dp_works}
+    \end{figure}
+    
 
 
     \subsection{Como ela está aplicada aos veículos autônomos?}
@@ -68,8 +86,7 @@
     % \par Fazer um comparativo do que já vem sendo feito nos últimos anos pelas empresas, tais como Tesla, Uber, Google etc. Quais os avanços que conseguiram e quais as perspectivas futuras destas empresas focando em \emph{deep learning}.
 
     \subsection{Conclusão}
-    \par Encerrar citando as vantagens do uso de \emph{deep learning} nos veículos autônomos, e o quanto impacta na qualidade da identificação.
-
+    \par Encerrar citando as vantagens do uso de \emph{deep learning} nos veículos autônomos, e o quanto impacta na qualidade da identificação, fazendo uma revisão do que foi visto.
 
     
 
@@ -82,8 +99,11 @@
 
      
     \begin{thebibliography}{BIBLIOGRAFIA}
+
+        \bibitem{1} https://www.startse.com/noticia/startups/mobtech/deep-learning-o-cerebro-dos-carros-autonomos
  
-        \bibitem{1} DELAI, Riccardo L.; COELHO, Alessandra Dutra. \textbf{DESENVOLVIMENTO DE VEÍCULO AUTÔNOMO-INTELIGÊNCIA CENTRAL E ORIENTAÇÃO POR CÂMERAS.}
+        \bibitem{2} DELAI, Riccardo L.; COELHO, Alessandra Dutra. \textbf{DESENVOLVIMENTO DE VEÍCULO AUTÔNOMO-INTELIGÊNCIA CENTRAL E ORIENTAÇÃO POR CÂMERAS.}
+        \bibitem{3} http://www2.decom.ufop.br/imobilis/inteligencia-artificial-e-deep-learning/
     
     \end{thebibliography}
 
@@ -93,4 +113,6 @@
 
 
     % https://www.google.com/search?q=gruta+de+bom+jesus+da+lapa&sxsrf=ALeKk02m7o7USbENUMebHaJ5b4V_fX5UWA:1595337552918&source=lnms&tbm=isch&sa=X&ved=2ahUKEwicx43Bt97qAhUUF7kGHdn8D3AQ_AUoAXoECA8QAw&biw=1920&bih=928
+
+    % http://ecmetrics.com/pt/ai-machine-learning-deep-learning/
 \end{document}
