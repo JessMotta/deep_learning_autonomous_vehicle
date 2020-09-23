@@ -1,10 +1,10 @@
-PWD /home/jes/deep_learning_autonomous vehicles_presentation
+PWD /home/jessmotta/deep_learning_autonomous_vehicle
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/jes/deep_learning_autonomous vehicles_presentation/script.tex
-OUTPUT /home/jes/deep_learning_autonomous vehicles_presentation/script.log
+INPUT /home/jessmotta/deep_learning_autonomous_vehicle/script.tex
+OUTPUT /home/jessmotta/deep_learning_autonomous_vehicle/script.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
@@ -101,9 +101,9 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
-INPUT /home/jes/deep_learning_autonomous vehicles_presentation/script.aux
-INPUT /home/jes/deep_learning_autonomous vehicles_presentation/script.aux
-OUTPUT /home/jes/deep_learning_autonomous vehicles_presentation/script.aux
+INPUT /home/jessmotta/deep_learning_autonomous_vehicle/script.aux
+INPUT /home/jessmotta/deep_learning_autonomous_vehicle/script.aux
+OUTPUT /home/jessmotta/deep_learning_autonomous_vehicle/script.aux
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/libertine/T1LinuxLibertineT-TLF.fd
@@ -129,3 +129,63 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /home/jessmotta/deep_learning_autonomous_vehicle/Logo_senai.png
+INPUT /home/jessmotta/deep_learning_autonomous_vehicle/Logo_senai.png
+OUTPUT /home/jessmotta/deep_learning_autonomous_vehicle/script.pdf
+INPUT /home/jessmotta/deep_learning_autonomous_vehicle/Logo_senai.png
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineTI-tlf-t1.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/libertine/TS1LinuxLibertineT-TLF.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/libertine/TS1LinuxLibertineT-TLF.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-ts1.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-ts1.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineTI-tlf-t1.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-t1.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1--base.tfm
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/libertine/LinLibertineTI-tlf-t1.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineTI-tlf-t1--base.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-t1.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1--base.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-ts1.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-ts1--base.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-t1.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1--base.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/libertine/LinLibertineTI-tlf-t1.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineTI-tlf-t1--base.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-ts1.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-ts1--base.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-t1.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1--base.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1.tfm
+INPUT /home/jessmotta/deep_learning_autonomous_vehicle/ml_dp.png
+INPUT /home/jessmotta/deep_learning_autonomous_vehicle/ml_dp.png
+INPUT /home/jessmotta/deep_learning_autonomous_vehicle/ml_dp.png
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
+INPUT /home/jessmotta/deep_learning_autonomous_vehicle/dp_works.png
+INPUT /home/jessmotta/deep_learning_autonomous_vehicle/dp_works.png
+INPUT /home/jessmotta/deep_learning_autonomous_vehicle/dp_works.png
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
+INPUT /home/jessmotta/deep_learning_autonomous_vehicle/script.aux
+INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc
+INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc
+INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc
+INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb
