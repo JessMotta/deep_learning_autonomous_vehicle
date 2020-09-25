@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1600821414 "/home/jessmotta/deep_learning_autonomous_vehicle/script.tex" "/home/jessmotta/deep_learning_autonomous_vehicle/script.pdf" "script" 1600821415
+["pdflatex"] 1601047425 "/home/jessmotta/deep_learning_autonomous_vehicle/script.tex" "/home/jessmotta/deep_learning_autonomous_vehicle/script.pdf" "script" 1601047425
   "/etc/texmf/web2c/texmf.cnf" 1600279475 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/jessmotta/deep_learning_autonomous_vehicle/script.aux" 1600821415 2011 70b0917eb89d5eabbc358798f12d7886 ""
-  "/home/jessmotta/deep_learning_autonomous_vehicle/script.tex" 1600821414 9896 92f675b356fcf52f8473e8bdeb231822 ""
+  "/home/jessmotta/deep_learning_autonomous_vehicle/script.aux" 1601047425 2011 70b0917eb89d5eabbc358798f12d7886 ""
+  "/home/jessmotta/deep_learning_autonomous_vehicle/script.tex" 1601047424 10256 5bb7ae5c3475b722b7b3dc02c3db3399 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc" 1490133665 2933 9ad527ce78d7c5fa0a642dead095f172 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc" 1490133665 2934 a4a9158faed2e9e89c771b4e3b7fc12f ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc" 1490133665 3357 5261ce65ba03aef9faf6135657b9abb6 ""
@@ -94,11 +94,11 @@
   "Logo_senai.png" 1600796574 83624 f93191fb6421e0492ff1d68da09099e6 ""
   "dp_works.png" 1600796574 33201 71bb13be528e4c9e4581fbd8c2ba922b ""
   "ml_dp.png" 1600796574 46650 c749e718f41f8ee5615277b4043b0fe4 ""
-  "script.aux" 1600821415 2011 70b0917eb89d5eabbc358798f12d7886 ""
-  "script.tex" 1600821414 9896 92f675b356fcf52f8473e8bdeb231822 ""
+  "script.aux" 1601047425 2011 70b0917eb89d5eabbc358798f12d7886 ""
+  "script.tex" 1601047424 10256 5bb7ae5c3475b722b7b3dc02c3db3399 ""
   (generated)
+  "script.aux"
+  "script.pdf"
   "/home/jessmotta/deep_learning_autonomous_vehicle/script.pdf"
   "/home/jessmotta/deep_learning_autonomous_vehicle/script.log"
   "script.log"
-  "script.pdf"
-  "script.aux"
