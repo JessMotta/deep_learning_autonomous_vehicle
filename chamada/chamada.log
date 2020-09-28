@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.9.16)  27 SEP 2020 22:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.9.16)  27 SEP 2020 22:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -780,33 +780,24 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 7.0pt on input line 24.
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 7.0pt on input line 24.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 29.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 29.
-
-Overfull \hbox (8.74425pt too wide) in paragraph at lines 29--29
-[]\T1/LinuxLibertineT-TLF/b/n/17.28 CHAMADA PARA A APRESENTAÇÃO- IN-FOR-MAL 
- []
-
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 32.
-[1
+(Font)              scaled to size 12.0pt on input line 31.
+ [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/jessmotta/deep_learning_autonomous_vehicle/chamada/Logo_senai.png>] (/home/jessmotta/deep_learning_autonomous_vehicle/chamada/chamada.aux) ) 
 Here is how much of TeX's memory you used:
- 5338 strings out of 492982
- 83693 string characters out of 6134896
+ 5334 strings out of 492982
+ 83581 string characters out of 6134896
  140454 words of memory out of 5000000
- 8768 multiletter control sequences out of 15000+600000
- 49150 words of font info for 39 fonts, out of 8000000 for 9000
+ 8766 multiletter control sequences out of 15000+600000
+ 39043 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,11n,37p,569b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb>
-Output written on /home/jessmotta/deep_learning_autonomous_vehicle/chamada/chamada.pdf (1 page, 225106 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb>
+Output written on /home/jessmotta/deep_learning_autonomous_vehicle/chamada/chamada.pdf (1 page, 141882 bytes).
 PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+ 22 PDF objects out of 1000 (max. 8388607)
+ 15 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
