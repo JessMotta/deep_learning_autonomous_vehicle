@@ -181,9 +181,6 @@ INPUT /home/jessmotta/deep_learning_autonomous_vehicle/dp_works.png
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-ts1.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-ts1.vf
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-ts1--base.tfm
 INPUT /home/jessmotta/deep_learning_autonomous_vehicle/script.aux
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc

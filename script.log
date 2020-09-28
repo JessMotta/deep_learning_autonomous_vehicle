@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.9.16)  25 SEP 2020 12:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.9.16)  27 SEP 2020 22:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -814,27 +814,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 109--110
 []\T1/LinuxLibertineT-TLF/m/n/12 http://www2.decom.ufop.br/imobilis/inteligencia-artificial-e-deep-
  []
 
-[4] [5]
-Overfull \hbox (8.74425pt too wide) in paragraph at lines 139--139
-[]\T1/LinuxLibertineT-TLF/b/n/17.28 CHAMADA PARA A APRESENTAÇÃO- IN-FOR-MAL 
- []
-
-LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 142.
-[6] [7] (/home/jessmotta/deep_learning_autonomous_vehicle/script.aux) ) 
+[4] [5] (/home/jessmotta/deep_learning_autonomous_vehicle/script.aux) ) 
 Here is how much of TeX's memory you used:
- 5363 strings out of 492982
- 84004 string characters out of 6134896
+ 5359 strings out of 492982
+ 83913 string characters out of 6134896
  141486 words of memory out of 5000000
- 8788 multiletter control sequences out of 15000+600000
- 65075 words of font info for 45 fonts, out of 8000000 for 9000
+ 8785 multiletter control sequences out of 15000+600000
+ 64372 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,11n,37p,714b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb>
-Output written on /home/jessmotta/deep_learning_autonomous_vehicle/script.pdf (7 pages, 316809 bytes).
+Output written on /home/jessmotta/deep_learning_autonomous_vehicle/script.pdf (5 pages, 313777 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
+ 44 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
